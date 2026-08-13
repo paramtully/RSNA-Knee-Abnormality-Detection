@@ -5,3 +5,7 @@ __pycache__/
 *.pyc
 .cursor/
 .vscode/
+train_series/
+test_series/
+*.dcm
+*.zip
