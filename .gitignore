@@ -9,3 +9,5 @@ train_series/
 test_series/
 *.dcm
 *.zip
+.env
+llm_cache/
